@@ -51,6 +51,8 @@ o login default com login: admin senha: 000000. depois crie um novo
 usuário para você. Na próxima versão vou incluir um CRUD de usuários.
 Clicando em nova tarefa pode programar novas tarefas e utilizando os
 numeros de 00 a 24 pode programar o horário que ele vai te avisar.
+Tenha certeza que o horário do seu servidor está certo, se não a
+notificação não vai chegar na hora.
 
 ###Leia antes de usar...
 Essa é a versão 0 do r então aguardem melhoras em breve
